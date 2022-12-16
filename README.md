@@ -16,6 +16,10 @@ Jalankan App ini dalam mode development.\
 
 Melakukan login untuk dapat mengakses fitur yang ada di aplikasinya.
 
+Login~
+Email : hrd@mail.com
+Password : 12345678
+
 ![login page](https://user-images.githubusercontent.com/85085929/206830057-51fb17ef-3604-45c8-bc48-9fefcc7ff9c8.png)
 
 ### Position Page
